@@ -1,1 +1,13 @@
+title: Your awesome title
+author:
+  name: m1ffyz
+
 theme: minima
+
+nav:
+  - title: ホーム
+    url: /
+  - title: プロフィール
+    url: /
+  - title: ブログ
+    url: /
