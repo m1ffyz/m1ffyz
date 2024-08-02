@@ -26,9 +26,19 @@ title: プロフィール
 - 中学時代に[Foursquare Swarm](https://ja.swarmapp.com/)というアプリに出会い、国内の大移動に目覚める。
 - Foursquare スーパーユーザー レベル4
 - 未訪問の都道府県は、石川、富山、福井、沖縄の4県
+- 好きな場所
+  - [大歩危](https://miyoshi-tourism.jp/spot/oobokekyo-kobokekyo/)
+  - [納沙布岬](https://www.visit-hokkaido.jp/spot/detail_10142.html)
+  - [南木曽](https://nagiso.jp/)
+  - [南阿蘇](https://minamiaso.info/)
 - 行きたい場所は、高千穂、祖谷、佐渡金山、青ヶ島、釧路湿原など
 
-### 音楽ゲーム
+### ラーメン二郎
+- 目黒店メイン
+- 訪問店舗 16/44店舗
+
+### ゲーム
 高校時代によくやっていました。
 - プロセカ CS(公式の世界大会) 準決勝出場
 - CHUNITHM 皇帝(元レーティング理論値)
+- Golf Blitz (highest: 2020)
