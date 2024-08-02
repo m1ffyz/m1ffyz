@@ -1,12 +1,12 @@
 title: m1ffyz
+# email:
+twitter_username: m1ffyz
+github_username: m1ffyz
+
+header_pages:
+  - index.md
+
+title: m1ffyz
 author: m1ffyz
 
 theme: minima
-
-nav:
-  - title: ホーム
-    url: /
-  - title: プロフィール
-    url: /
-  - title: ブログ
-    url: /
