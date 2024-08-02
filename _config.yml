@@ -5,6 +5,7 @@ github_username: m1ffyz
 
 header_pages:
   - index.md
+  - profile.md
 
 date_format: "%Y年 %m月 %d日"
 
