@@ -16,4 +16,6 @@ minima:
 
 timezone: Asia/Tokyo
 
+paginate: 10
+
 markdown: CommonMarkGhPages
