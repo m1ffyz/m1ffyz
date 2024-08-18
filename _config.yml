@@ -15,3 +15,5 @@ minima:
   date_format: "%Y年 %m月 %d日"
 
 timezone: Asia/Tokyo
+
+markdown: CommonMarkGhPages
